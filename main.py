@@ -6,7 +6,7 @@ import pytz
 from datetime import datetime
 
 # Token del bot
-TOKEN = "7699996224:AAGRK31aHgxUQwgkdtfAOXXEWArEy-0WPnA"  # Reemplaza con tu token seguro
+TOKEN = ""  # Reemplaza con tu token seguro
 
 # Rutas de plantillas y fuentes
 TEMPLATE_PATH = "plantilla.jpeg"  # Plantilla existente
